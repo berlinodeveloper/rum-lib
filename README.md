@@ -7,6 +7,7 @@ This repository contains the code from the RuM application without the UI only f
 ## Requirements
 
 - Java JDK 11
+- Apache Maven Build Tool
 
 ## Compile
 
