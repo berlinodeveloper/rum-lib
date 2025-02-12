@@ -6,7 +6,9 @@
 
 ## Compile
 
-Run `mvn clean package` to create minified package in `/target` folder
+- Run `mvn dependency:purge-local-repository -DactTransitively=false -DreResolve=false` to clean dependencies cache stored in .m2 hidden folder
+
+- Run `mvn clean package` to create minified package in `/target` folder
 
 ## Origin
 
