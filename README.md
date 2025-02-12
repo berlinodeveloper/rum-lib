@@ -1,4 +1,8 @@
-# RuM as dependency (minified)
+# RuM as dependency
+
+## Description
+
+This repository contains the code from RuM without the UI only for the purpose to export a minified package to use in other programs
 
 ## Requirements
 
